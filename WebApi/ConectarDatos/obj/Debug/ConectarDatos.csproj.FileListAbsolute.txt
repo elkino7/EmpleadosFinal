@@ -1,0 +1,14 @@
+C:\proyectU\ActSOA\WebApi\ConectarDatos\bin\Debug\Usuarios.mdf
+C:\proyectU\ActSOA\WebApi\ConectarDatos\bin\Debug\Usuarios_log.ldf
+C:\proyectU\ActSOA\WebApi\ConectarDatos\bin\Debug\EntityFramework.dll
+C:\proyectU\ActSOA\WebApi\ConectarDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\proyectU\ActSOA\WebApi\ConectarDatos\bin\Debug\EntityFramework.xml
+C:\proyectU\ActSOA\WebApi\ConectarDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\proyectU\ActSOA\WebApi\ConectarDatos\obj\Debug\ConectarDatos.csproj.CoreCompileInputs.cache
+C:\proyectU\ActSOA\WebApi\ConectarDatos\obj\Debug\ConectarDatos.csproj.CopyComplete
+C:\proyectU\ActSOA\WebApi\ConectarDatos\obj\Debug\ConectarDatos.dll
+C:\proyectU\ActSOA\WebApi\ConectarDatos\obj\Debug\ConectarDatos.pdb
+C:\proyectU\ActSOA\WebApi\ConectarDatos\bin\Debug\ConectarDatos.dll.config
+C:\proyectU\ActSOA\WebApi\ConectarDatos\bin\Debug\ConectarDatos.dll
+C:\proyectU\ActSOA\WebApi\ConectarDatos\bin\Debug\ConectarDatos.pdb
+C:\proyectU\ActSOA\WebApi\ConectarDatos\obj\Debug\ConectarDatos.csprojAssemblyReference.cache
